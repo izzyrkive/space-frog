@@ -8,8 +8,7 @@ No installation required.
 
 Can be accessed at the link below:
 
-
-<img width="1440" alt="Screenshot 2023-01-05 at 12 12 28 AM" src="https://user-images.githubusercontent.com/119257706/210706532-4024a3a4-4929-464d-978c-1e26af195546.png">
+<img width="844" alt="Screenshot 2023-01-05 at 12 12 28 AM" src="https://user-images.githubusercontent.com/119257706/210706628-0630fabd-4086-4fbe-bf42-714ae45561e7.png">
 
 # How To Use
 
